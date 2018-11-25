@@ -1,0 +1,9 @@
+{
+  "bootImage": {
+    "loadersDir": "/schem/objects/*",
+    "generatorWorld": "islands",
+    "loaders": {
+      "allIslands": "all-islands.schematic"
+    }
+  }
+}

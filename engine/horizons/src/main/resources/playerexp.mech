@@ -1,0 +1,7 @@
+{
+  "bootImage": {
+    "LOAD": [
+      "all_events"
+    ]
+  }
+}

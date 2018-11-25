@@ -1,0 +1,13 @@
+{
+  "bootImage": {
+    "WEATHER": {
+      "constantType": "CLEAR",
+      "useConstantType": true
+    },
+    "TIME": {
+      "multiplySpeedBy": 0,
+      "useConstantTime": true,
+      "constantTime": 12000
+    }
+  }
+}

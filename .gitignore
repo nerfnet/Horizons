@@ -1,0 +1,8 @@
+*.class
+*.iml
+*.jar
+/.idea/workspace.xml
+/.idea
+.idea
+dependency-reduced-pom.xml
+

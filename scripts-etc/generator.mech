@@ -1,0 +1,10 @@
+{
+  "bootImage": {
+    "loadersDir": "/schem/load/*",
+    "generatorWorld": "islands",
+    "loaders": {
+      "islandFallback": "test-island.ld",
+      "winterPalace": "winter-palace-ld"
+    }
+  }
+}

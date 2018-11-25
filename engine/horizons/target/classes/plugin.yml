@@ -1,0 +1,5 @@
+name: Horizons
+description: HavocMC's Horizons game.
+author: nerfnet
+version: 1.0.0
+main: net.havocmc.horizons.Horizons

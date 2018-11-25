@@ -1,0 +1,10 @@
+{
+  "bootImage": {
+    "worldSpawn": "world@50.15@60.0@80.0",
+    "showJoinMessages": true,
+    "joinMessages": [
+      "$6$lHORIZONS[@CENTERED]",
+      "$aWelcome[@?BACK] $n[@PLAYER]$a.[@CENTERED]"
+    ]
+  }
+}
